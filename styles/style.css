@@ -9,7 +9,7 @@
     height: 600px;
     text-align: right;
     padding: 316px 330px 0 0;
-    background-image: url(/images/banner/banner1.png);
+    background-image: url(../images/banner/banner1.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -75,3 +75,38 @@
 }
 
 /* section myplan styles */
+.myplan {
+    text-align: center;
+    margin-top: 130px;
+}
+
+.plan-tittle {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+
+.plan-ittems {
+    display: flex;
+    gap: 130px;
+    justify-content: center;
+    margin: 70px 0;
+}
+
+.ittems-tittle {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    margin-top: 10px;
+
+}
+
+.ittems-description {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #737272;
+    margin-top: 7px;
+}

@@ -145,3 +145,170 @@
     color: #F15B22;
     margin: 25px 0px 0 60px;
 }
+
+/* plan section styles */
+.do-plan {
+    margin-top: 70px;
+    height: 600px;
+    width: 1020px;
+    margin: auto;
+
+}
+
+.plan-tittle {
+    font-weight: 800;
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+.plan-description {
+    color: #707070;
+    font-weight: 400;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+.plans {
+    display: flex;
+    gap: 30px;
+
+}
+
+.plan-tittle {
+    margin-top: 130px;
+    text-align: center;
+    font-size: 45px;
+}
+
+.plans-description {
+    text-align: center;
+    font-size: 25px;
+    line-height: 28px;
+    color: #707070;
+    margin-bottom: 50px;
+}
+
+.plan-img {
+    height: 50px;
+    width: 50px;
+    color: #FFFFFF;
+    background-color: #FFFFFF;
+    ;
+}
+
+.pplan-title {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 36px;
+    color: #121212;
+    margin-bottom: 16px;
+    color: #FFFFFF;
+
+}
+
+pplan-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #707070;
+}
+
+.plan1 {
+    height: 245px;
+    width: 350px;
+    padding: 50px;
+    color: #FFFFFF;
+    background: #ED5B23;
+    border-radius: 5px;
+
+}
+
+.plan2 {
+    height: 245px;
+    width: 350px;
+    padding: 50px;
+    background: #E67043;
+    color: #FFFFFF;
+    border-radius: 5px;
+
+}
+
+.plan3 {
+    height: 245px;
+    width: 350px;
+    padding: 50px;
+    background: #DF815D;
+    color: #FFFFFF;
+    border-radius: 5px;
+
+}
+
+/* footer styles */
+.footer {
+    display: flex;
+    justify-content: space-around;
+    height: 577px;
+    width: auto;
+    background-color: #151414;
+    color: #FFFFFF;
+}
+
+.future {
+    padding-top: 150px;
+}
+
+.feture-title {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.feture-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 30px;
+}
+
+.footer-contact {
+    margin-top: 20px;
+}
+
+.socile-icons {
+    margin-top: 30px;
+    display: flex;
+    gap: 15px;
+}
+
+.subscribe {
+    padding-top: 150px;
+}
+
+.subs-tittle {
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+.email-btn {
+    width: 250px;
+    height: 50px;
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 18px;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    background: #151414;
+    color: #FFFFFF;
+}
+
+.subs-btn {
+    width: 170.11px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #F15B22;
+    margin-top: 16px;
+}
